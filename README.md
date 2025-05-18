@@ -1,6 +1,7 @@
 # MariaSemenova
 <!-- Codewars badge -->
 [![Codewars badge](https://www.codewars.com/users/Maria-Semenova/badges/large)](https://www.codewars.com/users/Maria-Semenova)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSemenovaDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- GitHub stats with streak-->
 ## :fire: My Stats:
@@ -10,7 +11,6 @@
 ## :zap: My Dev Statistics:
 <p>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaSemenovaDev&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSemenovaDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <!-- Activity Graph -->
