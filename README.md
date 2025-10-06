@@ -13,7 +13,6 @@
 <!-- GitHub stats -->
 ## :zap: My Dev Statistics:
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaSemenovaDev&show_icons=true&theme=tokyonight)
 
 <div>
     <!-- Main GitHub Stats Card -->
