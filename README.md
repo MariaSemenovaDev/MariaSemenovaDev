@@ -9,12 +9,28 @@
 
 <!-- GitHub stats with streak-->
 ## :fire: My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaSemenovaDev&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-mocha-tau.vercel.app?user=MariaSemenovaDev&theme=tokyonight)](https://git.io/streak-stats)
 <!-- GitHub stats -->
 ## :zap: My Dev Statistics:
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaSemenovaDev&show_icons=true&theme=tokyonight)
+
+<div>
+    <!-- Main GitHub Stats Card -->
+    <img src="https://github-readme-stats-lemon-omega-42.vercel.app/api?username=MariaSemenovaDev&show_icons=true&theme=radical&border_radius=10&show=reviews&card_width=440" alt="Maria's GitHub Stats"/>&nbsp;
+    <!-- Top Languages Card -->
+    <img height="220em" src="https://github-readme-stats-lemon-omega-42.vercel.app/api/top-langs/?username=MariaSemenovaDev&show_icons=true&border_radius=10&layout=compact&langs_count=8&theme=radical&exclude_repo=KNN-Image-Classification,Kabzda,github-readme-streak-stats&card_width=340" alt="Maria Semenova's Top Languages"/>
+    <!------------- Old version ------------------->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=MariaSemenovaDev&show_icons=true&theme=radical&border_radius=10&show=reviews&card_width=440"/> &nbsp; -->
+    <!-- <img height='220em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSemenovaDev&show_icons=true&border_radius=10&layout=compact&langs_count=20&theme=radical&exclude_repo=KNN-Image-Classification,Kabzda,github-readme-streak-stats&card_width=340"/> -->
+    <!--------------- Usefull --------------------->
+    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaSemenovaDev&repo=Super-portfolio"/> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MariaSemenovaDev"/> -->
+    <!-- height="190em" --> 
+    <!-- &hide=SCSS -->
+    <!-- &custom_title=My%20GitHub%20Stats -->
+</div>
+
   
 
 <!-- Activity Graph -->
