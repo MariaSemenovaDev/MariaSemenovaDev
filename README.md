@@ -47,6 +47,17 @@ Music-focused web app built with **React**, **TypeScript** and **Redux Toolkit**
 
 ---
 
+### [Flashcards App](https://github.com/MariaSemenovaDev/flashcards-app)
+
+Learning app with decks, cards, forms, validation and state management.
+
+* Focus: API state, forms, validation, reusable UI, component documentation
+* Stack: React, TypeScript, Redux Toolkit, RTK Query, React Hook Form, Zod, Storybook
+- Focus: API state, forms, validation, reusable UI, component documentation
+- Stack: React, TypeScript, Redux Toolkit, RTK Query, React Hook Form, Zod, Storybook
+
+---
+
 ### [Portfolio](https://github.com/MariaSemenovaDev/my-portfolio)
 
 Personal frontend developer portfolio.
