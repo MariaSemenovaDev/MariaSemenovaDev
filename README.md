@@ -12,7 +12,7 @@ I build responsive web applications with clean UI, typed API integration, forms,
 * Interested in clean UI, product-like interfaces and practical frontend architecture
 * Building commercial-style pet projects and improving my GitHub portfolio
 * Background in visual arts, which helps me care about layout, composition and user experience
-* Open to **Frontend Developer / Junior+ Frontend Developer** opportunities
+* Open to **Frontend Developer** opportunities
 
 ---
 
