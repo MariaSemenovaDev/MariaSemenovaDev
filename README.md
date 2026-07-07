@@ -4,8 +4,6 @@ I'm a Frontend Developer focused on **React**, **TypeScript** and **Next.js**.
 
 I build responsive web applications with clean UI, typed API integration, forms, routing, state management and production-like project structure.
 
-Currently improving my portfolio projects and preparing for frontend developer opportunities.
-
 ---
 
 ## Quick overview
