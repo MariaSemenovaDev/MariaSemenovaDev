@@ -38,24 +38,6 @@ Team social network project built with **Next.js**, **TypeScript**, **SCSS** and
 
 ---
 
-### [Flashcards App](https://github.com/MariaSemenovaDev/flashcards-app)
-
-Learning app with decks, cards, forms, validation and state management.
-
-- Focus: API state, forms, validation, reusable UI, component documentation
-- Stack: React, TypeScript, Redux Toolkit, RTK Query, React Hook Form, Zod, Storybook
-
----
-
-### [Support Bot Admin](https://github.com/MariaSemenovaDev/supportBot_admin)
-
-Admin dashboard for managing support bot messages.
-
-- Focus: admin interface, dashboard layout, Supabase integration, data management
-- Stack: Next.js, React, TypeScript, Supabase, Tailwind CSS
-
----
-
 ### [Musicfun App](https://github.com/MariaSemenovaDev/musicfun-APP)
 
 Music-focused web app built with **React**, **TypeScript** and **Redux Toolkit**.
@@ -140,10 +122,6 @@ My main areas:
 <p align="left">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=MariaSemenovaDev&show_icons=true&theme=transparent&hide_border=true" alt="Maria's GitHub stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MariaSemenovaDev&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaSemenovaDev&theme=github-compact&hide_border=true" alt="Maria's GitHub activity graph" />
 </p>
 
 ---
