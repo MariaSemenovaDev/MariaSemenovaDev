@@ -119,12 +119,12 @@ My main areas:
 ## GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MariaSemenovaDev&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="Maria's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSemenovaDev&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=MariaSemenovaDev&show_icons=true&theme=transparent&hide_border=true" alt="Maria's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MariaSemenovaDev&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=MariaSemenovaDev&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="190" src="https://streak-stats.demolab.com?user=MariaSemenovaDev&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -134,4 +134,4 @@ My main areas:
 * GitHub: [MariaSemenovaDev](https://github.com/MariaSemenovaDev)
 * Portfolio: [mariasemenovadev.github.io/my-portfolio](https://mariasemenovadev.github.io/my-portfolio/)
 * Email: [semenovamk0596@gmail.com](mailto:semenovamk0596@gmail.com)
-* Telegram: @folivora_maria
+* Telegram: [@folivora_maria](https://t.me/folivora_maria)
