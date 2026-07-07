@@ -105,17 +105,6 @@ My main areas:
 
 ---
 
-## Currently learning
-
-* Frontend interview preparation
-* Advanced TypeScript
-* Better project architecture
-* Testing frontend applications
-* Production-like Next.js patterns
-* Improving portfolio and pet projects
-
----
-
 ## GitHub stats
 
 <p align="left">
@@ -124,7 +113,7 @@ My main areas:
 </p>
 
 <p align="left">
-  <img height="190" src="https://streak-stats.demolab.com?user=MariaSemenovaDev&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaSemenovaDev&theme=github-compact&hide_border=true" alt="Maria's GitHub activity graph" />
 </p>
 
 ---
