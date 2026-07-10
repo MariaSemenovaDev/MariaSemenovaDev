@@ -53,8 +53,6 @@ Learning app with decks, cards, forms, validation and state management.
 
 * Focus: API state, forms, validation, reusable UI, component documentation
 * Stack: React, TypeScript, Redux Toolkit, RTK Query, React Hook Form, Zod, Storybook
-- Focus: API state, forms, validation, reusable UI, component documentation
-- Stack: React, TypeScript, Redux Toolkit, RTK Query, React Hook Form, Zod, Storybook
 
 ---
 
